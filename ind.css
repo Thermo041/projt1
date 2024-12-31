@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(130, 184, 190);
+    color: azure;
+}
+.cont{
+    width: 80vw;
+    text-align: center;
+    margin: auto;
+    color: black;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.button{
+    /* background-color: beige; */
+    margin: 3px;
+    justify-content: center;
+    border: 2px solid black;
+    height: 45px;
+    width: 45px;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
